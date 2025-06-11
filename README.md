@@ -1,0 +1,1 @@
+# Gstreamer_tutorial2_-Ubuntu24.04-
